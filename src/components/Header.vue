@@ -6,11 +6,12 @@
           <div class="flex items-center justify-between">
             <div class="shrink-0">
               <a href="#" title="" class="flex">
-                <img class="w-auto h-9" src="../assets/logo.svg" alt="" />
+                <!-- <img class="w-auto h-9" src="../assets/logo.svg" alt="" /> -->
               </a>
             </div>
+          </div>
 
-            <div class="flex md:hidden">
+          <!-- <div class="flex md:hidden">
               <button
                 type="button"
                 class="text-white"
@@ -51,9 +52,9 @@
                   </svg>
                 </span>
               </button>
-            </div>
+            </div> -->
 
-            <nav
+          <!-- <nav
               class="hidden space-x-10 md:flex md:items-center md:justify-center lg:space-x-12"
             >
               <a
@@ -104,8 +105,8 @@
                 GET REDEMPTION
               </a>
             </div>
-          </div>
-
+          </div> -->
+          <!-- 
           <nav x-show="expanded" x-collapse>
             <div class="flex flex-col pt-8 pb-4 space-y-6">
               <a
@@ -156,7 +157,7 @@
                 </a>
               </div>
             </div>
-          </nav>
+          </nav> -->
         </div>
       </header>
 
@@ -173,7 +174,7 @@
               >
                 Why are
                 <span
-                  class="text-transparent bg-clip-text bg-gradient-to-r from-cyan-500 to-purple-500"
+                  class="text-transparent bg-clip-text bg-gradient-to-r from-cyan-500 to-blue-500"
                   >you gay?</span
                 >
               </h1>
@@ -183,9 +184,9 @@
               </p>
               <div class="mt-8 sm:mt-10">
                 <a
-                  href="#"
+                  href="https://www.youtube.com/watch?v=esHI3zq15Jc"
                   title=""
-                  class="inline-flex items-center justify-center px-8 py-4 text-base font-normal text-white transition-all duration-200 rounded-full bg-gradient-to-r from-cyan-500 to-purple-500 hover:contrast-150"
+                  class="inline-flex items-center justify-center px-8 py-4 text-base font-normal text-white transition-all duration-200 rounded-full bg-gradient-to-r from-cyan-500 to-blue-500 hover:contrast-150"
                   role="button"
                 >
                   Let us help you
